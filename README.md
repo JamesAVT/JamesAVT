@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./banner.png" alt="James GitHub Banner" width="100%" />
+</div>
+
 # Hey! I'm James! 👋
 
 I'm a Programmer Analyst from Chile 🇨🇱, focused on software development. I'm passionate about building web and mobile applications, exploring new technologies, and creating practical, user-friendly solutions.
