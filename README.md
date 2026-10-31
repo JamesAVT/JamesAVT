@@ -37,5 +37,5 @@ I'm always open to new opportunities, exciting projects, and collaborations.
 ### GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JamesAVT&theme=blue-green)](https://git.io/streak-stats)
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=JamesAVT&layout=compact&size_weight=0&count_weight=1&langs_count=8)
 
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=JamesAVT&layout=compact&size_weight=0&count_weight=1&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=30363d)
