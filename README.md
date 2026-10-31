@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.png" alt="James GitHub Banner" width="100%" />
+  <img src="./Banner tecnológico de desarrollo de software.png" alt="James GitHub Banner" width="100%" />
 </div>
 
 # Hey! I'm James! 👋
